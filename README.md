@@ -5,7 +5,7 @@ artifacts using `mvn install` and then run `mvn tomcat7:run`.  You can also use 
 command line to build war files with `mvn package` and drop them in
 your favourite server, or you can run them directly from an IDE.
 
-Visit `http://localhost:8080/oauth-java-demo` in a browser and go to the
+Visit `http://localhost:8080/oauth2-java-demo` in a browser and go to the
 `jobs` tab.  The result should be:
 
 * You are prompted to authenticate in the app (the login screen tells
